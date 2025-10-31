@@ -1,0 +1,5 @@
+{
+  "name": "Employee KPI Tracker",
+  "description": "A web application to help managers track daily employee tasks and KPIs, and generate monthly performance reports.",
+  "requestFramePermissions": []
+}
